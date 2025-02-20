@@ -20,9 +20,9 @@ The study focuses on three increasingly complex energy storage scenarios:
   - Dynamic Programming (DP)
   - Shortest Path Algorithm (SP)
 - **Reinforcement learning methods**:
-  - **Proximal Policy Optimization (PPO)**
-  - **Soft Actor-Critic (SAC)**
-  - **Twin Delayed DDPG (TD3)**
+  - Proximal Policy Optimization (PPO)
+  - Soft Actor-Critic (SAC)
+  - Twin Delayed DDPG (TD3)
 - **Comparison metrics**:
   - Daily generation costs over 100 test days
   - Mean and variance of energy costs for each algorithm
