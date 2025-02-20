@@ -1,0 +1,2 @@
+The data consists of consumption and renewable production for different days.
+Each day represented by a 48 consecutive rows in the excel file.
