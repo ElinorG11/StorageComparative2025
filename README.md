@@ -2,6 +2,10 @@ This repository contains code for a comparative study of traditional and reinfor
 
 # **Comparative Study: Traditional vs. Reinforcement Learning-Based Energy Storage Control**
 
+<p align="center">
+  <img width="300" src="comparative_storage_illustraion.png">
+</p>
+
 ## **Overview**
 
 
